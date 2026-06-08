@@ -29,7 +29,7 @@
 
 ## 🎬 Demo Video
 
-> 📽️ **[Watch Demo on YouTube / Google Drive](#)** ← *(Replace with your video link)*
+> 📽️ **https://drive.google.com/file/d/1Ydr5giMc6rj7NtbenTCoRF_tNccA5pYv/view?t=10.432** ← *(Replace with your video link)*
 
 Or see it in action:
 
