@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 # 🚀 ResumeAI — Build a Resume That Gets You Hired
@@ -45,6 +31,14 @@
 [![▶ Watch Live Project](https://img.shields.io/badge/▶%20Watch%20Live%20Project-Click%20Here-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://airesume-makerv1.vercel.app/)
 
 </div>
+
+<div align="center">
+
+<a href="https://airesume-makerv1.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-View%20Project-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+</div>
 ## 🎬 Demo Video
 
 > 📽️ **https://drive.google.com/file/d/1Ydr5giMc6rj7NtbenTCoRF_tNccA5pYv/view?t=10.432** 
@@ -56,7 +50,7 @@ Or see it in action:
 | ![Step 1](./screenshots/step1.png) | ![Step 2](./screenshots/step2.png) | ![Step 3](./screenshots/step3.png) |
 
 ---
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-airesumemakerv1.vercel.app-6C63FF?style=for-the-badge)](https://airesumemakerv1.vercel.app)
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
