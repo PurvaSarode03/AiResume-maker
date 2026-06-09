@@ -16,7 +16,7 @@
 
 # 🚀 ResumeAI — Build a Resume That Gets You Hired
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-airesumemakerv1.vercel.app-6C63FF?style=for-the-badge)](https://airesumemakerv1.vercel.app)
+
 [![Made with Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
 [![Made with React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Powered by Groq](https://img.shields.io/badge/Groq_API-LLM-F55036?style=for-the-badge)](https://groq.com/)
@@ -40,7 +40,7 @@
 - 🌙 **Dark Mode** — Easy on the eyes
 
 ---
-🔗 **[Live Demo → airesumemakerv1.vercel.app](https://airesumemakerv1.vercel.app)**
+🔗 **[Live Demo → airesumemakerv1.vercel.app]([https://airesumemakerv1.vercel.app](https://airesume-makerv1.vercel.app/))**
 ## 🎬 Demo Video
 
 > 📽️ **https://drive.google.com/file/d/1Ydr5giMc6rj7NtbenTCoRF_tNccA5pYv/view?t=10.432** 
