@@ -40,7 +40,11 @@
 - 🌙 **Dark Mode** — Easy on the eyes
 
 ---
-🔗 **[Live Demo → airesumemakerv1.vercel.app]([https://airesumemakerv1.vercel.app](https://airesume-makerv1.vercel.app/))**
+<div align="center">
+
+[![▶ Watch Live Project](https://img.shields.io/badge/▶%20Watch%20Live%20Project-Click%20Here-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://airesume-makerv1.vercel.app/)
+
+</div>
 ## 🎬 Demo Video
 
 > 📽️ **https://drive.google.com/file/d/1Ydr5giMc6rj7NtbenTCoRF_tNccA5pYv/view?t=10.432** 
