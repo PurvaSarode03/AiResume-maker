@@ -10,7 +10,7 @@
 
 
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-airesumemakerv1.vercel.app-6C63FF?style=for-the-badge)](https://airesumemakerv1.vercel.app)
+
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Or see it in action:
 | ![Step 1](./screenshots/step1.png) | ![Step 2](./screenshots/step2.png) | ![Step 3](./screenshots/step3.png) |
 
 ---
-
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-airesumemakerv1.vercel.app-6C63FF?style=for-the-badge)](https://airesumemakerv1.vercel.app)
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
