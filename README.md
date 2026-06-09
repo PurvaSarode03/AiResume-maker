@@ -26,11 +26,7 @@
 - 🌙 **Dark Mode** — Easy on the eyes
 
 ---
-<div align="center">
 
-[![▶ Watch Live Project](https://img.shields.io/badge/▶%20Watch%20Live%20Project-Click%20Here-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://airesume-makerv1.vercel.app/)
-
-</div>
 
 <div align="center">
 
@@ -43,7 +39,7 @@
 
 > 📽️ **https://drive.google.com/file/d/1Ydr5giMc6rj7NtbenTCoRF_tNccA5pYv/view?t=10.432** 
 
-Or see it in action:
+
 
 | Step 1 — Describe Yourself | Step 2 — AI Generates | Step 3 — Preview & Download |
 |:---:|:---:|:---:|
